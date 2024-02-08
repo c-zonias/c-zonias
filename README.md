@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**c-zonias/c-zonias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Christos Zonias</h1>
 <h3 align="center">A passionate CS student from Cyprus</h3>
