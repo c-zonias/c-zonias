@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Christos Zonias</h1>
 <h3 align="center">A passionate Computer Science student from Cyprus !</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 - 🔭 I’m currently working on **Data Science using Pyhton**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
